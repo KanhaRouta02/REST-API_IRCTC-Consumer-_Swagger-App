@@ -10,6 +10,7 @@ public class Ticket {
 	private Double price;
 	private String name;
 	private String from;
+	private String to;
 	private String doj;
 	private String trainNumber;
 }
