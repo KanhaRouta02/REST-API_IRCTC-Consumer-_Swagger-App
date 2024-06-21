@@ -9,7 +9,7 @@ public class Ticket {
 	private String status;
 	private Double price;
 	private String name;
-	private String form;
+	private String from;
 	private String doj;
 	private String trainNumber;
 }
